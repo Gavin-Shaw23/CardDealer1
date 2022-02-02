@@ -19,5 +19,7 @@ public class CardDealer
         
         Card test1 = new Card("heart", 8);
         Card card = new Card("Test", 9);
+        
+        System.out.println(test1);
     }
 }
